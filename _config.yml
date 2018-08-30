@@ -4,7 +4,7 @@ url: click-meter.streamdata.gallery
 tag: Click Meter
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: click-meter
 github_branch: master
 collections:
